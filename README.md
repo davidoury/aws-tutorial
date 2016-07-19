@@ -1,5 +1,6 @@
 # aws-tutorial
 
-Directory
 
-[basics.md](basics.md) asdf
+https://aws.amazon.com/cli/
+
+- [basics.md](basics.md)
